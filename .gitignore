@@ -1,0 +1,23 @@
+# C++
+*.exe
+*.out
+*.o
+*.obj
+*.dll
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+Desktop.ini
